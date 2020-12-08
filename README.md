@@ -19,7 +19,7 @@ Machine learning base on python cheat sheet.
 ![alt_text](Images/sk.png)
 ![alt_text](Images/scikit.png)
 # Deep-learning
-![alt_text](Images/network.jpg)
+![alt_text](Images/network1.jpg)
 ![alt_text](Images/spark.jpg)
 # Keras
 ![alt_text](Images/keras.jpg)
