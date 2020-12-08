@@ -1,3 +1,3 @@
 # Cheat-sheet
 Machine learning base on python cheat sheet.
-![alternativetext](Images.pd.png)
+![alt_text](Images/pd.png)
